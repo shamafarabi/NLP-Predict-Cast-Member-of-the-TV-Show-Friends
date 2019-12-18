@@ -16,6 +16,12 @@ Therefore, efforts were mainly geared towards developing an understanding the ch
 - Explore application of Deep Learning Models and provide directions for further development
 
 # Link to Project Report
-The project report  [in this link] contains elaborate explanations of the steps followed and accomplishments from this project.
+The project report  [in this link] (https://nbviewer.jupyter.org/github/shamafarabi/Capstone_Project_2-Multiclass_Text_Classification_for_TV_Show_Friends/blob/master/Project%20Report.ipynb)contains elaborate explanations of the steps followed and accomplishments from this project.
 
+# Notebooks to Explore
 
+- *Webscraping.ipynb* contains code to scrape data from the transcripts of Friends: https://fangj.github.io/friends/
+- *Data Wrangling & Exploratory Data Analysis.ipynb* for Data Cleaning and Implementation of Interactive EDA 
+- *Preliminary ML Modeling_Class_Specific_ROC_AUC.ipynb* for evaluation of ML modeling with different word embedding techniques and linear ML classifiers
+- *Oversampling_vs_Undersampling.ipynb* for ML modeling with different sampling techniques 
+- *Deep_Learning_with_Keras.ipynb* for implementing a deep learning model with Keras 
