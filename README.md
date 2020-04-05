@@ -1,7 +1,7 @@
 # Multiclass Text Classification for Identifying TV Show Characters
 
 # Link to Project Report
-- [The project report in this link. ](https://nbviewer.jupyter.org/github/shamafarabi/Capstone_Project_2-Multiclass_Text_Classification_for_TV_Show_Friends/blob/master/Project%20Report.ipynb)contains elaborate explanations of the steps followed and accomplishments from this project.
+- [The project report in this link ](https://nbviewer.jupyter.org/github/shamafarabi/Capstone_Project_2-Multiclass_Text_Classification_for_TV_Show_Friends/blob/master/Project%20Report.ipynb)contains elaborate explanations of the steps followed and accomplishments from this project.
 
 # Introduction
 
