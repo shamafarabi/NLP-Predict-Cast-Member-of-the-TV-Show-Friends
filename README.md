@@ -1,5 +1,8 @@
 # Multiclass Text Classification for Identifying TV Show Characters
 
+# Link to Project Report
+- [The project report in this link. ](https://nbviewer.jupyter.org/github/shamafarabi/Capstone_Project_2-Multiclass_Text_Classification_for_TV_Show_Friends/blob/master/Project%20Report.ipynb)contains elaborate explanations of the steps followed and accomplishments from this project.
+
 # Introduction
 
 - The goal of this project is to investigate if NLP can be used to identify movie/TV show characters from any line they have said in the show. The popular TV show 'Friends' was used as the test case in this project, and dataset for modeling was created by web-scraping the transcripts for all the 9 seasons available online.
@@ -14,10 +17,6 @@ Therefore, efforts were mainly geared towards developing an understanding the ch
 - Evaluate the prediction capabilites of different linear classifiers while developing an understanding of the performance metric to use for this application
 - Investigate how different resampling techniques can be utilized to address imbalance in the dataset
 - Explore application of Deep Learning Models and provide directions for further development
-
-# Link to Project Report
-- [The project report in this link. ](https://nbviewer.jupyter.org/github/shamafarabi/Capstone_Project_2-Multiclass_Text_Classification_for_TV_Show_Friends/blob/master/Project%20Report.ipynb)contains elaborate explanations of the steps followed and accomplishments from this project.
-
 
 # Notebooks to Explore
 
