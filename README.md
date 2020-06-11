@@ -1,8 +1,8 @@
 # Multiclass Text Classification for Identifying TV Show Characters
 
 # Link to Project Report
-- [The project report in this link ](https://nbviewer.jupyter.org/github/shamafarabi/Capstone_Project_2-Multiclass_Text_Classification_for_TV_Show_Friends/blob/master/Project%20Report.ipynb)contains elaborate explanations of the steps followed and accomplishments from this project.
-- [The notebook in this link ](https://github.com/shamafarabi/Predicting-Cast-Member-of-the-TV-show-Friends-using-NLP/blob/master/Webscraping.ipynb)contains contains code to scrape data from transcripts available online
+- [The project report in this link ](https://github.com/shamafarabi/NLP-Predict-Cast-Member-of-the-TV-Show-Friends/blob/master/Project%20Report.ipynb)contains elaborate explanations of the steps followed and accomplishments from this project.
+- [The notebook in this link ](https://github.com/shamafarabi/Predicting-Cast-Member-of-the-TV-show-Friends-using-NLP/blob/master/1_Webscraping.ipynb)contains contains code to scrape data from transcripts available online
 - [The notebook in this link ](https://github.com/shamafarabi/Predicting-Cast-Member-of-the-TV-show-Friends-using-NLP/blob/master/Data%20Wrangling%20%26%20Exploratory%20Data%20Analysis.ipynb)contains data preprocessing and exploratory data analysis
 - [The notebook in this link ](https://github.com/shamafarabi/Predicting-Cast-Member-of-the-TV-show-Friends-using-NLP/blob/master/Data%20Wrangling%20%26%20Exploratory%20Data%20Analysis.ipynb)contains data preprocessing and exploratory data analysis
 - [This notebook ](https://github.com/shamafarabi/Predicting-Cast-Member-of-the-TV-show-Friends-using-NLP/blob/master/Preliminary%20ML%20Modeling_Class_Specific_ROC_AUC.ipynb)incorporated NLP to process the dialogues into features and utilized ML modeling with Naive Bayes, Logistic Regression and Support Vector Machine to predict the cast member
