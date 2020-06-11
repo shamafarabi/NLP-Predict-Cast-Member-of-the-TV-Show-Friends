@@ -6,7 +6,7 @@
 - [The notebook in this link ](https://github.com/shamafarabi/Predicting-Cast-Member-of-the-TV-show-Friends-using-NLP/blob/master/2_Data%20Wrangling%20%26%20Exploratory%20Data%20Analysis.ipynb)contains data preprocessing and exploratory data analysis
 - [This notebook ](https://github.com/shamafarabi/Predicting-Cast-Member-of-the-TV-show-Friends-using-NLP/blob/master/3_Preliminary%20ML%20Modeling_Class_Specific_ROC_AUC.ipynb)incorporated NLP to process the dialogues into features and utilized ML modeling with Naive Bayes, Logistic Regression and Support Vector Machine to predict the cast member
 - [This notebook ](https://github.com/shamafarabi/Predicting-Cast-Member-of-the-TV-show-Friends-using-NLP/blob/master/4_Oversampling_vs_Undersampling.ipynb) utilized oversampling and undersampling techniques to address imbalance in the dataset
-- [This notebook ](https://github.com/shamafarabi/Predicting-Cast-Member-of-the-TV-show-Friends-using-NLP/blob/master/5_Deep_Learning_with_Keras.ipyn) implemented deep learning ML model with Keras
+- [This notebook ](https://github.com/shamafarabi/Predicting-Cast-Member-of-the-TV-show-Friends-using-NLP/blob/master/5_Deep_Learning_with_Keras.ipynb) implemented deep learning ML model with Keras
 
 # Introduction
 
