@@ -1,6 +1,6 @@
 # Multiclass Text Classification for Identifying TV Show Characters
 
-# Link to Project Report
+# Link to Project Report/Notebooks
 - [The project report in this link ](https://github.com/shamafarabi/NLP-Predict-Cast-Member-of-the-TV-Show-Friends/blob/master/Project%20Report.ipynb)contains elaborate explanations of the steps followed and accomplishments from this project.
 - [The notebook in this link ](https://github.com/shamafarabi/Predicting-Cast-Member-of-the-TV-show-Friends-using-NLP/blob/master/1_Webscraping.ipynb)contains contains code to scrape data from transcripts available online
 - [The notebook in this link ](https://github.com/shamafarabi/Predicting-Cast-Member-of-the-TV-show-Friends-using-NLP/blob/master/2_Data%20Wrangling%20%26%20Exploratory%20Data%20Analysis.ipynb)contains data preprocessing and exploratory data analysis
