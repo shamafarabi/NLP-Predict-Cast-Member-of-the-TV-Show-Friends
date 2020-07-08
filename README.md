@@ -31,6 +31,6 @@ Therefore, efforts were mainly geared towards developing an understanding the ch
 - *Oversampling_vs_Undersampling.ipynb* for ML modeling with different sampling techniques 
 - *Deep_Learning_with_Keras.ipynb* for implementing a deep learning model with Keras 
 
-# Extension of the Project
-- Feature Engineering to Improve Modeling Accuracy
-- Transfer Learning with Fastai
+# Extension of the Project (in progress)
+- Feature Engineering to Improve Modeling Accuracy ([notebook](https://github.com/shamafarabi/NLP-Predict-Cast-Member-of-the-TV-Show-Friends/blob/master/Extension%20of%20the%20project/Extension%20_Feature_Engineering_Resampling.ipynb))
+- Transfer Learning with Fastai ([notebook](https://github.com/shamafarabi/NLP-Predict-Cast-Member-of-the-TV-Show-Friends/blob/master/Extension%20of%20the%20project/Friends_Fastai.ipynb))
