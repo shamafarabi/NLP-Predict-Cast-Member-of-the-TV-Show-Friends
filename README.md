@@ -30,3 +30,7 @@ Therefore, efforts were mainly geared towards developing an understanding the ch
 - *Preliminary ML Modeling_Class_Specific_ROC_AUC.ipynb* for evaluation of ML modeling with different word embedding techniques and linear ML classifiers
 - *Oversampling_vs_Undersampling.ipynb* for ML modeling with different sampling techniques 
 - *Deep_Learning_with_Keras.ipynb* for implementing a deep learning model with Keras 
+
+# Extension of the Project
+- Feature Engineering to Improve Modeling Accuracy
+- Transfer Learning with Fastai
