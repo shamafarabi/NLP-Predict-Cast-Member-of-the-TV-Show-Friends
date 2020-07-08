@@ -34,3 +34,6 @@ Therefore, efforts were mainly geared towards developing an understanding the ch
 # Extension of the Project (in progress)
 - Feature Engineering to Improve Modeling Accuracy ([notebook](https://github.com/shamafarabi/NLP-Predict-Cast-Member-of-the-TV-Show-Friends/blob/master/Extension%20of%20the%20project/Extension%20_Feature_Engineering_Resampling.ipynb))
 - Transfer Learning with Fastai ([notebook](https://github.com/shamafarabi/NLP-Predict-Cast-Member-of-the-TV-Show-Friends/blob/master/Extension%20of%20the%20project/Friends_Fastai.ipynb))
+
+# Modeling Summary:
+![title](Modeling_summary.png)
