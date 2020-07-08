@@ -36,4 +36,4 @@ Therefore, efforts were mainly geared towards developing an understanding the ch
 - Transfer Learning with Fastai ([notebook](https://github.com/shamafarabi/NLP-Predict-Cast-Member-of-the-TV-Show-Friends/blob/master/Extension%20of%20the%20project/Friends_Fastai.ipynb))
 
 # Modeling Summary:
-<img src="Figures/Modeling_Summary.png">
+<img src="Figures/Modeling Summary.png">
